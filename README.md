@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Mujgan!
-- 👀 I’m passionate about technology, cloud computing, and using those to help others in issues they may encounter!
-- 📫 How to reach me https://www.linkedin.com/in/muzhganagh/
+- hi! i'm Mujgan. feel free to look around!
 
 <!---
 mujganagh/mujganagh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
