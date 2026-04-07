@@ -1,4 +1,4 @@
-- hi! i'm Mujgan. feel free to look around!
+hi! i'm Mujgan. feel free to look around!
 
 <!---
 mujganagh/mujganagh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
